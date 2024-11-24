@@ -1,6 +1,6 @@
 
 import { useState } from "react";
-import {animals} from "../data/AnimalDb";
+import {animals} from "../components/AnimalDb";
 import '../assets/css/game.css'
 
 export default function Game(){
